@@ -16,7 +16,7 @@ I like working on interesting problems, and enjoy the challenge of building thin
 ### Biosciences
 - [LionLBD, AI-based cancer literature text mining tool](https://www.cam.ac.uk/research/news/ai-system-may-accelerate-search-for-cancer-discoveries)
 - [Developing an open and affordable 3D bioprinter](https://www.openplant.org/blog/2020/9/22/developing-an-open-and-affordable-3d-bioprinter)
-- [Peakonomic, within and across sample peak-calling using an Ising-Lognormal model](https://opticall.bitbucket.io)
+- [Peakonomic, within and across sample peak-calling using an Ising-Lognormal model](https://peakonomic.bitbucket.io)
 - [OptiCall, genotype calling as good as doing it by eye](https://opticall.bitbucket.io)
 
 
